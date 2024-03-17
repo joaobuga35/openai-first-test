@@ -3,7 +3,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 from time import sleep
-from helpers import *
+from helper import *
 
 load_dotenv()
 
